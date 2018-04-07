@@ -1,15 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 404 - 个人技术博客网站关闭中，积极配合备案
 ---
 
-Some information about you!
+个人技术博客网站关闭中，积极配合备案 [back to the homepage]({{ site.baseurl }}/).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;"/>]({{ site.baseurl }}/)
